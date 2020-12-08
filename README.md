@@ -3,7 +3,7 @@
 
 <div>
   <h3>
-    <a href="https://github.com/xkendx/Sprint-7-Assignment/blob/main/Assignment-7.gif">
+    <a href="https://github.com/serdardurmus/Sprint-7-Assignment">
       Project
     </a>
    
@@ -21,7 +21,6 @@
 
 ## Overview
 
-![screenshot]https://github.com/serdardurmus/Sprint-7-Assignment/blob/main/Assignment-7.gif)
 ![screenshot](https://github.com/serdardurmus/Sprint-7-Assignment/blob/main/Assignment-7.gif)
 
 ### Built With
@@ -45,10 +44,10 @@ $ npm start
 ## Acknowledgements
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 - [Node.js](https://nodejs.org/)
-- [Marked](https://github.com/chjj/marked)
+- [Github](https://github.com/)
 ## Contact
 <a href="https://github.com/serdardurmus" target="_blank">
-    <img src="https://img.shields.io/badge/%20-github-0072b1" alt="https://github.com/serdardurmus">
+    <img src="https://img.shields.io/badge/%20-github-004781" alt="https://github.com/serdardurmus">
 </a>
 <a href="https://www.linkedin.com/in/serdardurmusj/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/serdardurmusj/">
